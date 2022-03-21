@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd9cf15e.css",
+    "main.js": "/static/js/main.192d9874.js",
+    "static/js/787.eb2fb22c.chunk.js": "/static/js/787.eb2fb22c.chunk.js",
+    "static/media/mujraikandi youth (2) (1).png": "/static/media/mujraikandi youth (2) (1).85b8775c9d2efbb5eef3.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bd9cf15e.css.map": "/static/css/main.bd9cf15e.css.map",
+    "main.192d9874.js.map": "/static/js/main.192d9874.js.map",
+    "787.eb2fb22c.chunk.js.map": "/static/js/787.eb2fb22c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd9cf15e.css",
+    "static/js/main.192d9874.js"
+  ]
+}
