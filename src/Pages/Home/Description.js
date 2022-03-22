@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 const Description = () => {
   return (
     <div>
-      <Container className="m-5 p-5">
+      <Container className="p-5">
         <h1 className="text-uppercase fw-bold text-success">Who we are</h1>
         <p className="fs-4">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui incidunt

@@ -13,7 +13,7 @@ const OurWork = () => {
     <div>
       <Container>
         <h1 className="text-uppercase text-bold text-success">what we do</h1>
-        <Row xs={2} md={4} className="g-4 mt-5 mb-5">
+        <Row xs={1} md={4} className="g-4 mt-5 mb-5">
           {works.map((work) => (
             <Service key={work.id} work={work}></Service>
           ))}

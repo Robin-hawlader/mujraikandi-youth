@@ -1,7 +1,7 @@
 import React from "react";
-import Description from "../Description";
 import Navigation from "../Shared/Navigation";
 import Banner from "./Banner";
+import Description from "./Description";
 import OurWork from "./OurWork";
 import RegisterBanner from "./RegisterBanner";
 
