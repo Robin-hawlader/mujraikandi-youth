@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
+import { NavLink } from "react-router-dom";
 import logo from "../../Images/mujraikandi youth (2) (1).png";
 
 const Navigation = () => {
@@ -17,10 +18,8 @@ const Navigation = () => {
               style={{
                 display: "inline",
                 marginLeft: "10px",
-                // textDecoration: "underline",
-                // textDecorationColor: "red",
-                // textDecorationThickness: "3px",
               }}
+              className="fw-bold"
             >
               Mujraikandi-Youth
             </h4>
@@ -28,18 +27,30 @@ const Navigation = () => {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link className="text-light" href="#features">
+              <NavLink
+                className="text-light text-decoration-none text-uppercase fs-5 fw-bold me-3"
+                to="/"
+              >
                 Home
-              </Nav.Link>
-              <Nav.Link className="text-light" href="#pricing">
+              </NavLink>
+              <NavLink
+                className="text-light text-decoration-none text-uppercase fs-5 fw-bold me-3"
+                to="/mission"
+              >
                 Mission
-              </Nav.Link>
-              <Nav.Link className="text-light" href="#pricing">
+              </NavLink>
+              <NavLink
+                className="text-light text-decoration-none text-uppercase fs-5 fw-bold me-3"
+                to="/team"
+              >
+                Team
+              </NavLink>
+              <NavLink
+                className="text-light text-decoration-none text-uppercase fs-5 fw-bold"
+                to="/about"
+              >
                 About
-              </Nav.Link>
-              <Nav.Link className="text-light" href="#pricing">
-                Vission
-              </Nav.Link>
+              </NavLink>
             </Nav>
           </Navbar.Collapse>
         </Container>
