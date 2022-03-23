@@ -6,7 +6,13 @@ import logo from "../../Images/mujraikandi youth (2) (1).png";
 const Navigation = () => {
   return (
     <div>
-      <Navbar collapseOnSelect expand="lg" bg="success" variant="dark">
+      <Navbar
+        fixed="top"
+        collapseOnSelect
+        expand="lg"
+        bg="success"
+        variant="dark"
+      >
         <Container>
           <Navbar.Brand href="#home">
             <img
@@ -28,25 +34,25 @@ const Navigation = () => {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto">
               <NavLink
-                className="text-light text-decoration-none text-uppercase fs-5 fw-bold me-3"
+                className="text-light text-decoration-none text-uppercase fs-6 fw-bold me-3"
                 to="/"
               >
                 Home
               </NavLink>
               <NavLink
-                className="text-light text-decoration-none text-uppercase fs-5 fw-bold me-3"
+                className="text-light text-decoration-none text-uppercase fs-6 fw-bold me-3"
                 to="/mission"
               >
                 Mission
               </NavLink>
               <NavLink
-                className="text-light text-decoration-none text-uppercase fs-5 fw-bold me-3"
+                className="text-light text-decoration-none text-uppercase fs-6 fw-bold me-3"
                 to="/team"
               >
                 Team
               </NavLink>
               <NavLink
-                className="text-light text-decoration-none text-uppercase fs-5 fw-bold"
+                className="text-light text-decoration-none text-uppercase fs-6 fw-bold"
                 to="/about"
               >
                 About

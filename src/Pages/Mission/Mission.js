@@ -2,7 +2,7 @@ import React from "react";
 
 const Mission = () => {
   return (
-    <div>
+    <div style={{ marginTop: "150px" }}>
       <h1>Mission Upcomming</h1>
     </div>
   );
