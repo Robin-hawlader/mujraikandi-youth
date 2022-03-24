@@ -52,6 +52,12 @@ const Navigation = () => {
                 Team
               </NavLink>
               <NavLink
+                className="text-light text-decoration-none text-uppercase fs-6 fw-bold me-3"
+                to="/blog"
+              >
+                Blogs
+              </NavLink>
+              <NavLink
                 className="text-light text-decoration-none text-uppercase fs-6 fw-bold"
                 to="/about"
               >

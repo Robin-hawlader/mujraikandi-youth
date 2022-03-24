@@ -22,7 +22,7 @@ const Banner = () => {
               <Fade right>
                 <Button
                   variant="danger"
-                  className="d-block shadow ps-4 pe-4 pt-2 pb-2 fw-bold fs-5"
+                  className="d-block shadow ps-4 pe-4 pt-2 pb-2 fw-bold fs-5 text-uppercase"
                 >
                   Register Now
                 </Button>
@@ -30,7 +30,7 @@ const Banner = () => {
               <Fade left>
                 <Button
                   variant="light"
-                  className="border border-2 border-success d-block mt-4 ms-1 ps-4 pe-4 pt-2 pb-2 mb-4 fw-bold fs-5 text-success"
+                  className="border border-2 border-success d-block mt-4 ms-1 ps-4 pe-4 pt-2 pb-2 mb-4 fw-bold fs-5 text-success text-uppercase"
                 >
                   Learn More
                 </Button>
