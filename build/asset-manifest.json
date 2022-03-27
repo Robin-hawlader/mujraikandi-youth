@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2710677e.css",
-    "main.js": "/static/js/main.79be1b79.js",
+    "main.js": "/static/js/main.f64be0e9.js",
     "static/js/787.eb2fb22c.chunk.js": "/static/js/787.eb2fb22c.chunk.js",
     "static/media/background-logo.png": "/static/media/background-logo.55095529af7382bf881b.png",
     "static/media/mujraikandi youth (2) (1).png": "/static/media/mujraikandi youth (2) (1).85b8775c9d2efbb5eef3.png",
     "index.html": "/index.html",
     "main.2710677e.css.map": "/static/css/main.2710677e.css.map",
-    "main.79be1b79.js.map": "/static/js/main.79be1b79.js.map",
+    "main.f64be0e9.js.map": "/static/js/main.f64be0e9.js.map",
     "787.eb2fb22c.chunk.js.map": "/static/js/787.eb2fb22c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2710677e.css",
-    "static/js/main.79be1b79.js"
+    "static/js/main.f64be0e9.js"
   ]
 }

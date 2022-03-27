@@ -1,0 +1,14 @@
+.image-property img {
+  height: 300px;
+  width: 300px;
+  border-radius: 300px;
+}
+.team {
+  display: flex;
+  justify-content: space-around;
+}
+.team-property {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

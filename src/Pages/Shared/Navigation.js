@@ -25,7 +25,7 @@ const Navigation = () => {
                 display: "inline",
                 marginLeft: "10px",
               }}
-              className="fw-bold"
+              className="fw-bold text-uppercase"
             >
               Mujraikandi-Youth
             </h4>
