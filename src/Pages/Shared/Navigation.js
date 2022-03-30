@@ -58,7 +58,7 @@ const Navigation = () => {
                 Blogs
               </NavLink>
               <NavLink
-                className="text-light text-decoration-none text-uppercase fs-6 fw-bold"
+                className="text-light text-decoration-none text-uppercase fs-6 fw-bold me-3"
                 to="/about"
               >
                 About
