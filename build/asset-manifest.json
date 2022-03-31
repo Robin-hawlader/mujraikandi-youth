@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.42fd2892.css",
-    "main.js": "/static/js/main.e8035751.js",
+    "main.css": "/static/css/main.caa360e6.css",
+    "main.js": "/static/js/main.10f5b82f.js",
     "static/js/787.eb2fb22c.chunk.js": "/static/js/787.eb2fb22c.chunk.js",
     "static/media/IMG_20210925_075014.png": "/static/media/IMG_20210925_075014.bdcdb027537b19730d09.png",
     "static/media/Saimon.2.png": "/static/media/Saimon.2.47c22bb683757c36fc42.png",
+    "static/media/Shwapon.png": "/static/media/Shwapon.2f88064e0a019b861ab2.png",
+    "static/media/Sagar khalshi.png": "/static/media/Sagar khalshi.bb21977585f0908062d0.png",
     "static/media/background-logo.png": "/static/media/background-logo.55095529af7382bf881b.png",
     "static/media/mujraikandi youth (2) (1).png": "/static/media/mujraikandi youth (2) (1).85b8775c9d2efbb5eef3.png",
     "index.html": "/index.html",
-    "main.42fd2892.css.map": "/static/css/main.42fd2892.css.map",
-    "main.e8035751.js.map": "/static/js/main.e8035751.js.map",
+    "main.caa360e6.css.map": "/static/css/main.caa360e6.css.map",
+    "main.10f5b82f.js.map": "/static/js/main.10f5b82f.js.map",
     "787.eb2fb22c.chunk.js.map": "/static/js/787.eb2fb22c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42fd2892.css",
-    "static/js/main.e8035751.js"
+    "static/css/main.caa360e6.css",
+    "static/js/main.10f5b82f.js"
   ]
 }
