@@ -13,14 +13,14 @@ const About = () => {
             <img className="img-fluid" src={sagar} alt="" />
           </Col>
           <Col md={8} className="text-start author">
-            <div>
+            <div style={{ fontFamily: "Times New Roman" }}>
               <h1 className="text-uppercase name-prop">
                 <span className="border-bottom border-4 border-danger">
                   sagar
                 </span>
                 -khalashi
               </h1>
-              <p className="text-uppercase text-property fs-4 mt-5">
+              <p className=" text-property fs-4 mt-5">
                 Sagar Khalasi is currently serving as the President of
                 Muzraikandi Youth Welfare Association. In 2019, he was convened
                 and a full 42-member committee was announced. But later in 2020,
