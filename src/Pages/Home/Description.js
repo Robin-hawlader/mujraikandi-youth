@@ -6,7 +6,7 @@ const Description = () => {
     <div>
       <Container className="p-5">
         <h1 className="text-uppercase fw-bold text-success">Who we are</h1>
-        <p className="fs-4">
+        <p className="fs-4 text-start">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui incidunt
           illum soluta odit unde, voluptatum error molestias vel officia eius
           quibusdam excepturi eligendi nulla optio earum enim obcaecati neque
@@ -18,14 +18,6 @@ const Description = () => {
           sint nesciunt quam soluta doloremque. Tenetur facere dolor veniam quis
           magnam, earum tempore. Repellendus iste assumenda modi debitis neque
           animi consequatur. Architecto modi cum dolore ipsam incidunt.
-        </p>
-        <p className="fs-4 mt-5">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio
-          consequatur nihil illum eius! Assumenda voluptatibus hic reprehenderit
-          molestias. Praesentium dolore beatae unde cum delectus numquam. Natus,
-          nulla! Saepe ullam beatae reiciendis harum nesciunt nisi doloribus
-          voluptates vero atque voluptatibus. Dignissimos voluptatibus non sunt
-          reiciendis nostrum odio iusto facere magnam nihil!
         </p>
       </Container>
     </div>

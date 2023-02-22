@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row, Button } from "react-bootstrap";
-import logo from "../../Images/background-logo.png";
+import logo from "../../Images/logo.png";
 import { FaFacebook, FaInstagram } from "react-icons/fa";
 
 const Ventures = () => {
@@ -41,8 +41,8 @@ const Ventures = () => {
           <Col>
             <img
               style={{
-                filter: "drop-shadow(0px 0px 20px white)",
                 height: "400px",
+                background: "white",
               }}
               src={logo}
               alt=""

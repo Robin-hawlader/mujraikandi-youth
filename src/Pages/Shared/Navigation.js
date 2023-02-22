@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
-import logo from "../../Images/mujraikandi youth (2) (1).png";
+import logo from "../../Images/logo-2.png";
 
 const Navigation = () => {
   return (
@@ -16,7 +16,12 @@ const Navigation = () => {
         <Container>
           <Navbar.Brand href="#home">
             <img
-              style={{ width: "80px", height: "80px", borderRadius: "40px" }}
+              style={{
+                width: "80px",
+                height: "80px",
+                borderRadius: "40px",
+                background: "white",
+              }}
               src={logo}
               alt=""
             />
