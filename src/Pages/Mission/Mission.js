@@ -1,4 +1,5 @@
 import React from "react";
+import mission from "../../Images/mission.jpeg";
 
 const Mission = () => {
   return (
@@ -8,6 +9,13 @@ const Mission = () => {
           Our Mission
         </span>
       </h1>
+      <img
+        style={{
+          width: "100%",
+        }}
+        src={mission}
+        alt=""
+      />
       <p
         style={{
           textAlign: "justify",

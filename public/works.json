@@ -1,22 +1,32 @@
 [
   {
     "id": 1,
-    "name": "LEADERSHIP PROGRAMS",
-    "image": "https://bylc.org/assets/images/19-december-2018-1-scaled.jpg"
+    "name": "Sports",
+    "image": "./Sports/1.png"
   },
   {
     "id": 2,
-    "name": "LEADERSHIP PROGRAMS",
-    "image": "https://bylc.org/assets/images/2i1a3147.jpg"
+    "name": "Volunteers",
+    "image": "./Sports/2.png"
   },
   {
     "id": 3,
-    "name": "LEADERSHIP PROGRAMS",
-    "image": "https://bylc.org/assets/images/bylcx.png"
+    "name": "Donation",
+    "image": "./Sports/3.png"
   },
   {
     "id": 4,
-    "name": "LEADERSHIP PROGRAMS",
-    "image": "https://bylc.org/assets/images/19-december-2018-1-scaled.jpg"
+    "name": "Education",
+    "image": "./Sports/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Seminar",
+    "image": "./Sports/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Cultural Activites",
+    "image": "./Sports/6.png"
   }
 ]
