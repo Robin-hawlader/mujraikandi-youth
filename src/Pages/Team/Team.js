@@ -20,7 +20,7 @@ const Team = () => {
             <h4 className="fw-bold text-uppercase text-secondary">moderator</h4>
             <p className="fs-2">
               <a
-                href="https://www.facebook.com/saymon.hasan.399"
+                href="https://www.facebook.com/profile.php?id=100089602346870"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -36,7 +36,7 @@ const Team = () => {
               </a>
               <a
                 className="ms-3 text-primary"
-                href="https://www.linkedin.com"
+                href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADmy3CwBDS0NB9Z7aD_V8_I1Be4kv4ulInA&keywords=saymon%20hasan&origin=RICH_QUERY_SUGGESTION&position=1&searchId=3cc0788a-86de-467e-8546-af281bb15618&sid=w1E"
                 target="_blank"
                 rel="noopener noreferrer"
               >
